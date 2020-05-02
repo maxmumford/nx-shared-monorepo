@@ -25,6 +25,9 @@
     "contoso-e2e": {
       "tags": [],
       "implicitDependencies": ["contoso"]
+    },
+    "shared": {
+      "tags": []
     }
   }
 }
