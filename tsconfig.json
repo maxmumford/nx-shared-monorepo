@@ -16,7 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@contoso/shared": ["libs/shared/src/index.ts"]
+      "@contoso/shared": ["libs/shared/src/index.ts"],
+      "@dist-shared": ["dist/libs/shared"]
     }
   },
   "exclude": ["node_modules", "tmp"]

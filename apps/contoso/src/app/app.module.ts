@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { SharedModule } from '@contoso/shared';
+import { SharedModule } from '@dist-shared';
 
 @NgModule({
   declarations: [AppComponent],
